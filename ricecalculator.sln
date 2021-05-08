@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ricecalculator", "ricecalculator\ricecalculator.csproj", "{04C66D9D-B323-4D51-96D3-673B74237805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C66D9D-B323-4D51-96D3-673B74237805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C66D9D-B323-4D51-96D3-673B74237805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C66D9D-B323-4D51-96D3-673B74237805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C66D9D-B323-4D51-96D3-673B74237805}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F674B07D-04A3-4D00-8B8E-91713C1BB0F1}
+	EndGlobalSection
+EndGlobal
